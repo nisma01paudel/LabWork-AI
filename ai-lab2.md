@@ -1,6 +1,6 @@
 # ARTIFICIAL INTELLIGENCE
 
-## Lab Sheet II
+## Lab Sheet II & III
 
 ### 1. Implement Automated Vacuum Cleaner Reflex Agent
 
@@ -50,3 +50,6 @@
 - Select an appropriate temperature schedule.
 - 
 [ViewImplementation](https://github.com/nisma01paudel/LabWork-AI/blob/master/effect_of_temperature.ipynb)
+
+### Lab3
+[View](https://github.com/nisma01paudel/LabWork-AI/blob/master/AI_lab3ML.ipynb)
